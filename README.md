@@ -31,6 +31,7 @@ A curated list for fuzzing ethereum
 - [oyente](https://github.com/enzymefinance/oyente) by [Enzyme Finance](https://github.com/enzymefinance)
   - We built a symbolic execution tool called Oyente to find potential security bugs in contracts written by developers for the existing Ethereum system. Our objective for Oyente is to increase the security of the smart contracts by identifying vulnerabilities which will allow developers to mitigate the identified risks. Of the 19,366 existing Ethereum contracts, Oyente flags 8,833 of them as vulnerable, including the DAO bug which led to a USD 60 million loss in June 2016.
 
-  
+- [MAIAN](https://github.com/ivicanikolicsg/MAIAN) by [Ivica Nikolic](https://github.com/ivicanikolicsg)  
+  - automatic tool for finding trace vulnerabilities in Ethereum smart contracts 
 
   
