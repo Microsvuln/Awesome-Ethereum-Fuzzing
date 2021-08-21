@@ -25,7 +25,7 @@ A curated list for fuzzing ethereum
 - [ethersplay](https://github.com/crytic/ethersplay) by [TrailOfBits](https://github.com/trailofbits)
   - Binary Ninja plugin which enables an EVM disassembler and related analysis tools.
 
- - [octopus](https://github.com/pventuzelo/octopus) by [Patrick Ventuzelo](https://github.com/pventuzelo)
+- [octopus](https://github.com/pventuzelo/octopus) by [Patrick Ventuzelo](https://github.com/pventuzelo)
   - Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)  
 
 - [oyente](https://github.com/enzymefinance/oyente) by [Enzyme Finance](https://github.com/enzymefinance)
