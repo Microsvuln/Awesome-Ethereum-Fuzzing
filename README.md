@@ -13,4 +13,9 @@ A curated list for fuzzing ethereum
 - [rattle](https://github.com/crytic/rattle) by [TrailOfBits](https://github.com/trailofbits)
   - Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts. Rattle takes EVM byte strings, uses a flow-sensitive analysis to recover the original control flow graph, lifts the control flow graph into an SSA/infinite register form, and optimizes the SSA – removing DUPs, SWAPs, PUSHs, and POPs. The conversion from a stack machine to SSA form removes 60%+ of all EVM instructions and presents a much friendlier interface to those who wish to read the smart contracts they’re interacting with.
 
+- [echidna](https://github.com/crytic/echidna) by [TrailOfBits](https://github.com/trailofbits)
+  -  Echidna is a Haskell program designed for fuzzing/property-based testing of Ethereum smarts contracts. It uses sophisticated grammar-based fuzzing campaigns based on a contract ABI to falsify user-defined predicates or Solidity assertions. We designed Echidna with modularity in mind, so it can be easily extended to include new mutations or test specific contracts in specific cases.
+  
+-  [mythril](https://github.com/ConsenSys/mythril) by [ConsenSys](https://github.com/ConsenSys)
+    - Mythril is a security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses symbolic execution, SMT solving and taint analysis to detect a variety of security vulnerabilities. It's also used (in combination with other tools and techniques) in the MythX security analysis platform.   
   
