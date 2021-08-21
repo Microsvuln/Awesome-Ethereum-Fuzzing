@@ -28,4 +28,9 @@ A curated list for fuzzing ethereum
  - [octopus](https://github.com/pventuzelo/octopus) by [Patrick Ventuzelo](https://github.com/pventuzelo)
   - Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)  
 
+- [oyente](https://github.com/enzymefinance/oyente) by [Enzyme Finance](https://github.com/enzymefinance)
+  - We built a symbolic execution tool called Oyente to find potential security bugs in contracts written by developers for the existing Ethereum system. Our objective for Oyente is to increase the security of the smart contracts by identifying vulnerabilities which will allow developers to mitigate the identified risks. Of the 19,366 existing Ethereum contracts, Oyente flags 8,833 of them as vulnerable, including the DAO bug which led to a USD 60 million loss in June 2016.
+
+  
+
   
