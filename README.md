@@ -18,4 +18,9 @@ A curated list for fuzzing ethereum
   
 -  [mythril](https://github.com/ConsenSys/mythril) by [ConsenSys](https://github.com/ConsenSys)
     - Mythril is a security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses symbolic execution, SMT solving and taint analysis to detect a variety of security vulnerabilities. It's also used (in combination with other tools and techniques) in the MythX security analysis platform.   
+
+- [ethersplay](https://github.com/crytic/ethersplay) by [TrailOfBits](https://github.com/trailofbits)
+  - Binary Ninja plugin which enables an EVM disassembler and related analysis tools.
+
+ 
   
